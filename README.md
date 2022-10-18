@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahmaAlam
-- 👀 I’m interested in Front-end Web development with HTML and CSS, also Java and Python Programming.
-- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in Front-end Web development with HTML and CSS, also Python Programming.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me ... mail: rahmaalam344@gmail.com
 
